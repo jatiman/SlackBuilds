@@ -23,13 +23,12 @@
 # <http://www.gnu.org/licenses/>.
 
 # Modified by Mario Preksavec <mario@slackware.hr>
-# Jati Nurohman <jatinurohman@hotmail.com>
 
 
 PRGNAM=telegram
 SRCNAM=tsetup
 SRCDIR=Telegram
-VERSION=${VERSION:-0.9.10}
+VERSION=${VERSION:-0.10.19}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
